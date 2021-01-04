@@ -1,3 +1,5 @@
 import UIKit
 
-var str = "Hello, playground"
+let myDouble = 3.14159
+
+
